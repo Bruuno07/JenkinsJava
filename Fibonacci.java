@@ -1,13 +1,5 @@
+package JenkinsJava;
 
-
-/**
- * Serie de Fibonacci en Java Programa que imprima los N primeros números de la
- * serie de Fibonacci. El primer número de la serie es 1, el segundo número es 1
- * y cada uno de los siguientes es la suma de los dos anteriores. 1, 1, 2, 3, 5,
- * 8, 13, ....... , N
- * 
- * @author Bruno
- */
 public class Fibonacci {
 
     public static void main(String[] args) {
